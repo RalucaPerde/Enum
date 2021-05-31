@@ -26,3 +26,4 @@ public class EnumClient {
         System.out.println(name);
     }
 }
+
